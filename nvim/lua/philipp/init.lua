@@ -29,5 +29,3 @@ vim.o.undofile = true
 require("philipp.lazy")
 require("telescope")
 require("philipp.remap")
-print("philipp lua init")
-
